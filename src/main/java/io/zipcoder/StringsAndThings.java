@@ -92,7 +92,7 @@ public class StringsAndThings {
             }
         }
 
-        return null;
+        return true;
     }
 
 
